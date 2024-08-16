@@ -9,19 +9,19 @@ node v21.7.1
 
 ## Installation
 
-** To get up and running, follow these steps: **
+**To get up and running, follow these steps:**
 
-** Clone repository **
+**Clone repository**
 ```
 git clone hhttps://github.com/diSarkisova/FuturamaTinder.git
 ```
 
-** Install dependencies **
+**Install dependencies**
 ```
 npm install
 ```
 
-** Run the project **
+**Run the project**
 ```
 npm run dev
 ```
