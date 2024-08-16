@@ -32,5 +32,5 @@ npm run dev
 
 |      Name     |    surname    |
 | ------------- | ------------- |
-|      Vlad     |    Pichuev    |
+|       Vlad    |    Pichuev    |
 
