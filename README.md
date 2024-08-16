@@ -12,7 +12,9 @@ node v21.7.1
 ### To get up and running, follow these steps:
 
 ### Clone repository
+```
 git clone hhttps://github.com/diSarkisova/FuturamaTinder.git
+```
 
 ### Install dependencies
 ```
@@ -23,3 +25,12 @@ npm install
 ```
 npm run dev
 ```
+
+## Features
+
+# Author 
+
+|      Name     |    surname    |
+| ------------- | ------------- |
+|      Vlad     |    Pichuev    |
+
