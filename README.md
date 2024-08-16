@@ -1,9 +1,11 @@
-# PokePuncher
+### PokePuncher
 
 It is a browser-based, card game developed in Vue.Js
 
-## Node Version
+# Node Version
+```
 node v21.7.1
+```
 
 ## Installation
 
@@ -13,7 +15,11 @@ node v21.7.1
 git clone hhttps://github.com/diSarkisova/FuturamaTinder.git
 
 # Install dependencies
+```
 npm install
+```
 
 # Run the project
+```
 npm run dev
+```
