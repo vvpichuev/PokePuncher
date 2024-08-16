@@ -26,11 +26,8 @@ npm install
 npm run dev
 ```
 
-## Features
+# Author
 
-# Author 
-
-|      Name     |    surname    |
-| ------------- | ------------- |
-|       Vlad    |    Pichuev    |
-
+| Name | Surname | Work mail                     |
+|------|---------|-------------------------------|
+| Vlad | Pichuev | [mail](mailto:vpichuev@ya.ru) |
