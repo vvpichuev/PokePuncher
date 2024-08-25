@@ -1,33 +1,35 @@
 # PokePuncher
 
-It is a browser-based, card game developed in Vue.Js
+This template should help get you started developing with Vue 3 in Vite.
 
-## Node Version
-```
-node v21.7.1
-```
+## Recommended IDE Setup
 
-## Installation
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-**To get up and running, follow these steps:**
+## Customize configuration
 
-**Clone repository**
-```
-git clone hhttps://github.com/diSarkisova/FuturamaTinder.git
-```
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-**Install dependencies**
-```
+## Project Setup
+
+```sh
 npm install
 ```
 
-**Run the project**
-```
+### Compile and Hot-Reload for Development
+
+```sh
 npm run dev
 ```
 
-# Author
+### Compile and Minify for Production
 
-| Name | Surname | Work mail                     |
-|------|---------|-------------------------------|
-| Vlad | Pichuev | [mail](mailto:vpichuev@ya.ru) |
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
