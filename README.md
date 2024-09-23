@@ -1,35 +1,28 @@
 # PokePuncher
+Pokemon cartoon character card game
 
-This template should help get you started developing with Vue 3 in Vite.
+## Node Version
+    node v21.7.1
 
-## Recommended IDE Setup
+## Package Manager
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Recommended package manager npm
 
-## Customize configuration
+## Installation
+#### To get up and running, follow these steps:
+#### Clone repository
+    # git clone https://github.com/vvpichuev/PokePuncher.git
+#### Install dependencies
+    npm install
+#### Run the project
+    npm run dev
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+[//]: # (## Features)
 
-## Project Setup
 
-```sh
-npm install
-```
+### Author
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+| Name | Surname | Mail                   | telegram    |
+|------|---------|------------------------|-------------|
+| Vlad | Pichuev | [mail](vpichuev@ya.ru) | @vv_pichuev | 
+ 
