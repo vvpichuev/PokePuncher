@@ -1,33 +1,28 @@
 # PokePuncher
-
-It is a browser-based, card game developed in Vue.Js
+Pokemon cartoon character card game
 
 ## Node Version
-```
-node v21.7.1
-```
+    node v21.7.1
+
+## Package Manager
+
+Recommended package manager npm
 
 ## Installation
+#### To get up and running, follow these steps:
+#### Clone repository
+    # git clone https://github.com/vvpichuev/PokePuncher.git
+#### Install dependencies
+    npm install
+#### Run the project
+    npm run dev
 
-**To get up and running, follow these steps:**
+[//]: # (## Features)
 
-**Clone repository**
-```
-git clone hhttps://github.com/diSarkisova/FuturamaTinder.git
-```
 
-**Install dependencies**
-```
-npm install
-```
+### Author
 
-**Run the project**
-```
-npm run dev
-```
-
-# Author
-
-| Name | Surname | Work mail                     |
-|------|---------|-------------------------------|
-| Vlad | Pichuev | [mail](mailto:vpichuev@ya.ru) |
+| Name | Surname | Mail                   | telegram    |
+|------|---------|------------------------|-------------|
+| Vlad | Pichuev | [mail](vpichuev@ya.ru) | @vv_pichuev | 
+ 
